@@ -149,7 +149,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="text-center py-3">
-    <p>&copy; C Dharshan </p>
+    <p>&copy;  SATHISH V </p>
   </footer>
 
   <!-- Bootstrap JS -->
